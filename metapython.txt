@@ -1,0 +1,3 @@
+MetaPython: quando trocamos os encanamentos!
+
+Python é versátil o suficiente para, sem quebrar as regras da linguagem, podermos implementar polimorfismo, tail recursion, lazy execution, checagem de tipos, atributos privados, mudar o "jeito" da linguagem para que lembre LISP, ou Forth, ou ainda fazer tudo em uma única expressão de uma linha. Usando os vários recursos entre metaclasses, decorators, introspecção dos frames de execução, são mostrados exemplos de cada uma dessas coisas for fun & profit.
